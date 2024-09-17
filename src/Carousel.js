@@ -24,12 +24,12 @@ const Carousel = () => {
   const images = [
     
     "https://github.com/user-attachments/assets/bd54e11d-6b33-4b5f-a174-9cce912bb66b",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/2.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/3.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/4.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/5.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/6.jpg",
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/7.jpg",
+    "https://github.com/user-attachments/assets/881194eb-8ca5-42fb-a362-6d283664a0cb",
+    "https://github.com/user-attachments/assets/1244db23-9fca-4bf8-be8f-625f2eed12fd",
+    "https://github.com/user-attachments/assets/934dc14e-a377-4c6a-bf04-28d7b986a19a",
+    "https://github.com/user-attachments/assets/ee558b2f-2d94-4ee8-b9ec-855764af653c",
+    "https://github.com/user-attachments/assets/788ab426-9e8f-4a69-a0af-23698129e1d4",
+    "https://github.com/user-attachments/assets/790db2a6-40c1-421c-85aa-8bf3a8fbb754",
   ];
 
   return (
