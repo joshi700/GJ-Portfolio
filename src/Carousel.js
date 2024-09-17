@@ -15,10 +15,9 @@ const Carousel = () => {
     slidesToScroll: 1,
     arrows: true,
     autoplay: true,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 3000,
     centerMode: true,
     fade: true,
-    FaAlignCenter:true,
   };
 
   const images = [
