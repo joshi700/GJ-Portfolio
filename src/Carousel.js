@@ -23,7 +23,7 @@ const Carousel = () => {
 
   const images = [
     
-    "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/1.jpg",
+    "https://github.com/user-attachments/assets/bd54e11d-6b33-4b5f-a174-9cce912bb66b",
     "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/2.jpg",
     "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/3.jpg",
     "https://github.com/joshi700/PortfolioGJ/blob/a14415fdeb4929b265e045a6c84706675d59455a/Portfolio-master/src/Assets/4.jpg",
