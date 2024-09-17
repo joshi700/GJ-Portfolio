@@ -27,7 +27,6 @@ const Carousel = () => {
     "https://github.com/user-attachments/assets/1244db23-9fca-4bf8-be8f-625f2eed12fd",
     "https://github.com/user-attachments/assets/934dc14e-a377-4c6a-bf04-28d7b986a19a",
     "https://github.com/user-attachments/assets/ee558b2f-2d94-4ee8-b9ec-855764af653c",
-    "https://github.com/user-attachments/assets/788ab426-9e8f-4a69-a0af-23698129e1d4",
     "https://github.com/user-attachments/assets/790db2a6-40c1-421c-85aa-8bf3a8fbb754",
     "https://github.com/user-attachments/assets/ad305367-bfbf-467c-abed-7b442ff50df3",
     "https://github.com/user-attachments/assets/b085f738-b776-4f69-aba6-e47d07221e5e",
