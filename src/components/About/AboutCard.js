@@ -44,8 +44,9 @@ function AboutCard() {
             </li>
               <br />
           </ul>
-              
+              </p>
         </blockquote>
+              
       </Card.Body>
     </Card>
   );
