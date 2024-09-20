@@ -8,8 +8,6 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            <br />
-            <br />
             My Job roles include:
             <br />
             <ul>
