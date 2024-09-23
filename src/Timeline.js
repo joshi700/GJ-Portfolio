@@ -55,7 +55,7 @@ function App() {
           );
         })}
       </VerticalTimeline>
-     
+     <h1></h1>
     </div>
   );
 }
