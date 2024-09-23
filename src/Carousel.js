@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { alignPropType } from "react-bootstrap/esm/types";
 import { FaAlignCenter } from "react-icons/fa";
-
+import Home3 from "./Home3";
 
 const Carousel = () => {
   const settings = {
@@ -34,6 +34,7 @@ const Carousel = () => {
   ];
 
   return (
+    <div>
     <Slider {...settings}>
       {images.map((img, index) => (
         <div key={index}>
@@ -41,6 +42,8 @@ const Carousel = () => {
         </div>
       ))}
     </Slider>
+<Home3></Home3>
+</div>
   );
 };
 
