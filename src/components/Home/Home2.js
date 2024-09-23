@@ -13,6 +13,7 @@ import "../../Timeline.css";
 import "../../Timeline.css";
 import SkillsSection from "./SkillsSection";
 import Carousel from "../../Carousel";
+import Aboutcard from "../About/AboutCard";
 
 function Home2() {
   return (
@@ -59,6 +60,9 @@ function Home2() {
         </Row>
 
       </Container>
+              <Container>
+                <Aboutcard />
+              </Container>  
             <Container>
       <SkillsSection/>
      </Container>
