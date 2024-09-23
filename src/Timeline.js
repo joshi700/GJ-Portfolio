@@ -3,7 +3,7 @@ import { ReactComponent as WorkIcon } from "./Assets/work.svg";
 import { ReactComponent as SchoolIcon } from "./Assets/school.svg";
 
 import timelineElements from "./timelineElements";
-import Home3 from "./Home3";
+
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -55,7 +55,7 @@ function App() {
           );
         })}
       </VerticalTimeline>
-      <Home3></Home3>
+     
     </div>
   );
 }
