@@ -30,8 +30,7 @@ function Home2() {
               Currently, I’m a Product Manager at <b className="purple">Mastercard</b>, focusing on enhancing integration experiences for Payment Gateway's API offerings. 
               <br />
               <br />
-              I love getting into the nitty-gritty details of design and work with a world-class team to solve real problems. 
-              <br />
+              
               My expertise spans Product Development, API integration, business analysis, and project leadership, with a strong emphasis on transforming user experiences.
               <br />
               
