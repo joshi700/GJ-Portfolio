@@ -73,7 +73,7 @@ function Home2() {
         <h1 className="title" style={{ fontSize: "2.6em" }}>..</h1> 
      </Container>
       <Container>
-        <h1 className="title" >GOOD TIMES!!</h1>
+        <h1 className="title"  style={{ fontSize: "6em"; text-align: center;}} >GOOD TIMES!!</h1>
         <Carousel />
         </Container>
     </Container>
