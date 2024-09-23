@@ -70,6 +70,9 @@ function Home2() {
          <Timeline></Timeline>
      </Container>
       <Container>
+        <h1 className="title" style={{ fontSize: "2.6em" }}>..</h1> 
+     </Container>
+      <Container>
         <h1 className="title" style={{ fontSize: "2.6em" }}>GOOD TIMES!!</h1>
         <Carousel />
         </Container>
