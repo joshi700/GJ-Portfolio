@@ -3,8 +3,8 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 
 const projects = [
-  { id: 1, title: 'Project 1', description: 'Detailed description of project 1' },
-  { id: 2, title: 'Project 2', description: 'Detailed description of project 2' },
+  { id: 1, title: 'CheckFree RXP', description: 'Integrating Fiservs Bill Pay solution - CheckFree RXP to Stifels Online Banking Platform' },
+  { id: 2, title: 'The Vault ', description: 'Central Business Intelligence and Service Delivery Framework' },
   // Add more projects as needed
 ];
 
