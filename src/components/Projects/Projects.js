@@ -3,6 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from './ProjectCard';
+import Particle from "../Particle";
 
 const projects = [
   { id: 1, title: 'CheckFree RXP', description: 'Integrating Fiservs Bill Pay solution - CheckFree RXP to Stifels Online Banking Platform' },
@@ -15,6 +16,7 @@ const Projects = () => {
     <div>
     <section>
     <Container fluid className="home-section" id="home">
+    <Particle />
       <h1>My Projects</h1>
       <div className="project-list">
         {projects.map(project => (
