@@ -15,9 +15,9 @@ const Projects = () => {
   return (
     <div>
     <section>
-    <Container fluid className="home-section" id="home">
-    <Particle />
-      <h1>My Projects</h1>
+    
+      <h1 style={{ paddingBottom: 15 }} className="heading">
+      My Projects</h1>
       <div className="project-list">
         {projects.map(project => (
           <Link to={`/projects/${project.id}`} key={project.id}>
@@ -25,7 +25,7 @@ const Projects = () => {
           </Link>
         ))}
       </div>
-          </Container>
+          
           </section>    
     </div>
   );
