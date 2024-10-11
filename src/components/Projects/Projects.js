@@ -24,10 +24,6 @@ const Projects = () => {
           <Link to={`/projects/${project.id}`} key={project.id}>
             <ProjectCard project={project} />
           </Link>
-    <Container>
-    <Row>
-    </Row>
-    </Container>
         ))}
       </div>
           
