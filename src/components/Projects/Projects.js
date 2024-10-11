@@ -1,6 +1,7 @@
 // src/pages/Projects.js
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from './ProjectCard';
 
 const projects = [
@@ -12,6 +13,8 @@ const projects = [
 const Projects = () => {
   return (
     <div>
+    <section>
+    <Container fluid className="home-section" id="home">
       <h1>My Projects</h1>
       <div className="project-list">
         {projects.map(project => (
@@ -20,6 +23,8 @@ const Projects = () => {
           </Link>
         ))}
       </div>
+          </Container>
+          </section>    
     </div>
   );
 };
