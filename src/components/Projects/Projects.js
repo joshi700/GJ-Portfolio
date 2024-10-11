@@ -15,9 +15,10 @@ const Projects = () => {
   return (
     <div>
     <section>
-    
-      <h1 style={{ paddingBottom: 15 }} className="heading">
-      My Projects</h1>
+    <Container>
+    <Row>
+    </Row>
+    </Container>
       <div className="project-list">
         {projects.map(project => (
           <Link to={`/projects/${project.id}`} key={project.id}>
