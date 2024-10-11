@@ -28,10 +28,17 @@ const ProjectDetails = () => {
   }
 
   return (
+    <section>
+    
+        <Container fluid className="home-section" id="home">
+        <Row>
+        </Row>
+        </Container>
     <div className="project-details">
       <h1>{project.title}</h1>
       <p dangerouslySetInnerHTML={{ __html: project.description }} />
     </div>
+  </section>
   );
 };
 
