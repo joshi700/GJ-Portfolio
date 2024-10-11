@@ -1,6 +1,7 @@
 // src/pages/ProjectDetails.js
 import React from 'react';
 import { useParams } from 'react-router-dom';
+import "../../App.css";
 
 const projects = [
   {
@@ -27,7 +28,7 @@ const ProjectDetails = () => {
   }
 
   return (
-    <div>
+    <div className="project-details">
       <h1>{project.title}</h1>
       <p dangerouslySetInnerHTML={{ __html: project.description }} />
     </div>
