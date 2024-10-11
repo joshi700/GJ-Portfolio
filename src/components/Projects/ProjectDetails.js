@@ -29,7 +29,7 @@ const ProjectDetails = () => {
   return (
     <div>
       <h1>{project.title}</h1>
-      <p>{project.description}</p>
+      <p dangerouslySetInnerHTML={{ __html: project.description }} />
     </div>
   );
 };
