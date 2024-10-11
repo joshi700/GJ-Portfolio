@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Spacing between project cards */
+}
+
+.project-card {
+  border: 1px solid #ddd; /* Light border for the card */
+  border-radius: 8px; /* Rounded corners */
+  padding: 15px; /* Padding inside the card */
+  background-color: #f9f9f9; /* Light background */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: transform 0.2s; /* Animation on hover */
+}
+
+.project-card:hover {
+  transform: scale(1.02); /* Slight zoom on hover */
+}
+
+h1 {
+  margin-bottom: 20px; /* Space below the title */
+}
