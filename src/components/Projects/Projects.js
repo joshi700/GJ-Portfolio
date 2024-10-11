@@ -13,9 +13,9 @@ const projects = [
 
 const Projects = () => {
   return (
-    <div>
+    <section>
     
-    <Container>
+    <Container fluid className="home-section" id="home">
     <Row>
     </Row>
     </Container>
@@ -28,7 +28,7 @@ const Projects = () => {
       </div>
           
               
-    </div>
+    </section>
   );
 };
 
