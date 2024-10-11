@@ -1,5 +1,6 @@
 // src/components/ProjectCard.js
 import React from 'react';
+import "../App.css";
 
 const ProjectCard = ({ project }) => {
   return (
