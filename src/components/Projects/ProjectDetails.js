@@ -95,7 +95,7 @@ const ProjectDetails = () => {
         </Container>
     <div className="project-details">
       <h1>{project.title}</h1>
-      <p dangerouslySetInnerHTML={{ __html: project.description }} />
+      <p className="project-details" dangerouslySetInnerHTML={{ __html: project.description }} />
     </div>
   </section>
   );
