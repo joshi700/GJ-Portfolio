@@ -60,6 +60,7 @@
   background-color: #000000; /* Dark background */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
   transition: transform 0.2s; /* Animation on hover */
+  text-align: left;
 }
 
 .project-card:hover {
