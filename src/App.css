@@ -60,6 +60,16 @@
   background-color: #000000; /* Dark background */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
   transition: transform 0.2s; /* Animation on hover */
+}
+
+.project-details p{
+  border: 1px solid #ddd; /* Light border for the card */
+  color: #d9ecf1;
+  border-radius: 8px; /* Rounded corners */
+  padding: 15px; /* Padding inside the card */
+  background-color: #000000; /* Dark background */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: transform 0.2s; /* Animation on hover */
   text-align: left;
 }
 
