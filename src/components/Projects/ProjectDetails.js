@@ -9,24 +9,25 @@ const projects = [
     id: 1,
     title: 'Jebel Ali Free Zone Authority',
  description: `
-      <strong>Context</strong><br>
+      <strong>Context</strong><br><br>
       JAFZA, or the Jebel Ali Free Zone Authority, is a free trade zone located in Dubai, United Arab Emirates. It was established in 1985 and is one of the largest and most successful free zones in the world.<br>
       The free zone attracts a wide range of businesses, including manufacturing, trading, logistics, and services. Companies can benefit from 100% foreign ownership and full repatriation of profits.<br><br>
 
-      <strong>Identify Customer - Personas</strong><br>
+      <strong>Identify Customer - Personas</strong><br><br>
       There are about 7000 companies (large, medium and small businesses) inside Jafza (Jebel Ali Free Trade Zone).<br><br>
 
-      <strong>Report Customer Needs</strong><br>
+      <strong>Customer Needs</strong><br><br>
       These companies reach out to Jafza for company and employee services. These include services like visa applications, license renewals, official letters, and making payments.<br>
       Jafza received 20,000 to 25,000 online transactions per month, with 92% of transactions starting online.<br>
       The companies use a self-service portal to access these services. The customers of Jafza need these services to be operated from the mobile phone.<br><br>
+      
+      <strong>Types of Services for Companies in JAFZA</strong><br> <br>
+      <ol>
+      <li><strong>Why Jafza/ Why Dubai / Company News</strong><br></li>
+      
 
-      <strong>Types of Services</strong><br>
-      <strong>Why Jafza/ Why Dubai</strong><br>
-      <strong>Company News</strong><br>
-
-      <strong>Gallery:</strong> Inquiries Services require username and password:<br>
-
+      <li><strong>Gallery:</strong> Inquiries Services require username and password</li>
+      </ol>
       <strong>Company Related Services:</strong> Company related services include services such as registration, licenses and lease.<br>
 
       <strong>Letters:</strong> Various letters can be requested, such as a letter to certify shareholders, a letter of good standing, etc.<br>
