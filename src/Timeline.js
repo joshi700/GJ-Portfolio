@@ -40,6 +40,7 @@ function App() {
               <h5 className="vertical-timeline-element-subtitle">
                 {element.location}
               </h5>
+                <img src={element.logo} alt={`${element.title} logo`} className="timeline-logo" /> {/* Add this line */}
               <p id="description">{element.description}</p>
               {showButton && (
                 <a
