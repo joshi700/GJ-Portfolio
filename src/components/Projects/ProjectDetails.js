@@ -7,7 +7,7 @@ import { Container, Row, Col } from "react-bootstrap";
 const projects = [
   {
     id: 1,
-    title: 'CheckFree RXP',
+    title: 'Jebel Ali Free Zone Authority',
  description: `
       <strong>Context</strong><br>
       JAFZA, or the Jebel Ali Free Zone Authority, is a free trade zone located in Dubai, United Arab Emirates. It was established in 1985 and is one of the largest and most successful free zones in the world.<br>
