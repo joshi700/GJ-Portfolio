@@ -19,7 +19,7 @@ let timelineElements = [
     // buttonText: "View Backend Projects",
     date: "2021",
     icon: "work",
-    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
+    logo: "https://github.com/user-attachments/assets/2c9f7dd6-05ab-4eff-a923-231debca6fda",
   },
   {
     id: 3,
