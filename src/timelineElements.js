@@ -30,7 +30,7 @@ let timelineElements = [
     // buttonText: "Company Website",
     date: "2017",
     icon: "work",
-    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
+    logo: "https://github.com/user-attachments/assets/6fabcca3-41c7-40c3-a8f5-78194e92ee1d",
   },
   {
     id: 4,
