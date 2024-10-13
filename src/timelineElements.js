@@ -52,7 +52,7 @@ let timelineElements = [
     // buttonText: "College Projects",
     date: "2014",
     icon: "work",
-    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
+    logo: "https://github.com/user-attachments/assets/ec422f00-4cba-44c9-a166-c03d1d9c9271",
   },
   {
     id: 6,
@@ -62,7 +62,7 @@ let timelineElements = [
       "Class Representative for the MBA Batch of 2014, IIT Roorkee",
     date: "2012",
     icon: "school",
-    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
+    logo: "https://github.com/user-attachments/assets/683c707b-5d8d-4e77-9d05-5c37eee9d702",
   },
   {
     id: 7,
@@ -82,7 +82,7 @@ let timelineElements = [
       "Lead team of 6 consultants to develop Automation scenarios doing regression testing for Metlife application",
     date: "2007",
     icon: "work",
-    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
+    logo: "https://github.com/user-attachments/assets/706ec4f6-969b-4548-89d3-fb308bf48834",
   },
   {
     id: 9,
@@ -92,7 +92,7 @@ let timelineElements = [
       "BE - IT",
     date: "2002",
     icon: "school",
-    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
+    logo: "https://github.com/user-attachments/assets/d4c2439b-0318-4101-b27d-ce0ff503cf80",
   },
 ];
 
