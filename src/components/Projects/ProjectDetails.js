@@ -10,9 +10,10 @@ const projects = [
     title: 'Jebel Ali Free Zone Authority',
  description: `
       <strong>Context</strong><br><br>
-      JAFZA, or the Jebel Ali Free Zone Authority, is a free trade zone located in Dubai, United Arab Emirates. It was established in 1985 and is one of the largest and most successful free zones in the world.<br>
-      The free zone attracts a wide range of businesses, including manufacturing, trading, logistics, and services. Companies can benefit from 100% foreign ownership and full repatriation of profits.<br><br>
-
+      <ul>
+        <li>JAFZA, or the Jebel Ali Free Zone Authority, is a free trade zone located in Dubai, United Arab Emirates. It was established in 1985 and is one of the largest and most successful free zones in the world.<br></li>
+        <li>The free zone attracts a wide range of businesses, including manufacturing, trading, logistics, and services. Companies can benefit from 100% foreign ownership and full repatriation of profits.<br><br></li>
+      </ul>
       <strong>Identify Customer - Personas</strong><br><br>
       There are about 7000 companies (large, medium and small businesses) inside Jafza (Jebel Ali Free Trade Zone).<br><br>
 
