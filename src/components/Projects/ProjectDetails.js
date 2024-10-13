@@ -69,7 +69,7 @@ const projects = [
       <strong>Role Estimate:</strong><br>
       <ul>
         <li>Using the app, customers would be able to initiate interactions with Jafza for official letters, visa applications, license renewals, etc.<br></li>
-        <li>Customers can submit all required documents by 'scanning them in' through the device's camera and get their requirements fulfilled without ever having to use a workstation or stepping into a Jafza Customer Service Centre.<br></li>
+        <li>Customers can submit all required documents by scanning them in through the devices camera and get their requirements fulfilled without ever having to use a workstation or stepping into a Jafza Customer Service Centre.<br></li>
         <li>For the customers, the mobile app would offer company and employee services enabling companies to request and purchase services including payments and visa letters.<br><br></li>
       </ul>
       <strong>Summarize Recommendation:</strong><br>
@@ -122,7 +122,7 @@ const projects = [
 
 <strong>Bank Charges</strong><br><br>
 <ul>
-	<li>While many banks charge a 5% fee, the company’s processing fees are only 1.25% of the total purchase and 1% of that is passed through to the customer as a cash back reward. <br></li>
+	<li>While many banks charge a 5% fee, the companys processing fees are only 1.25% of the total purchase and 1% of that is passed through to the customer as a cash back reward. <br></li>
 	<li>All a customer needs to do to purchase their coffee or a new shirt with AeroPay is sync their bank account and the app will automatically connect when the customer enters a participating store.<br></li>
 </ul>
 
@@ -169,12 +169,13 @@ const projects = [
 <strong>Disputes & Fraud</strong><br><br>
 <ul>
 	<li>When it comes to disputes it is important to monitor both their number and their status along with their type. <br></li>
-	<li>Depending on the dispute’s type you may perform certain actions and adduce certain evidence. <br></li>
+	<li>Depending on the disputes type you may perform certain actions and adduce certain evidence. <br></li>
 </ul>
 
-' },
+', },
   
   // Add more projects as needed
+
 ];
 
 
