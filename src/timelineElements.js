@@ -78,7 +78,7 @@ let timelineElements = [
   },
   {
     id: 9,
-    title: "L.D. COLLEGE OF ENGINEERING",
+    title: "L.D. COLLEGE OF ENGINEERING | GUJARAT UNIVERSITY",
     location: "AHMEDABAD, INDIA",
     description:
       "BE - IT",
