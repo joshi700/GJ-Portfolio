@@ -95,7 +95,7 @@ const projects = [
 <ul>
 	<li>How is it aligned to their Banks goals?<br></li>
 	<li>How will it be better for business?<br></li>
-	<li>How much is the value?<br><li>
+	<li>How much is the value?<br></li>
 </ul>
 
 
@@ -128,9 +128,9 @@ const projects = [
 
 <strong>Three major goals in a business</strong><br><br>
 <ul>
-	<li>Increase revenue. <br></li>
-	<li>Lower costs.<br></li>
-	<li>Reduce losses.<br></li>
+	<li>Increase revenue<br></li>
+	<li>Lower costs<br></li>
+	<li>Reduce losses<br></li>
 </ul>
 
 <strong>Payment Conversion Rate</strong><br><br>
