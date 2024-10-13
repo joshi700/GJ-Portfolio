@@ -81,7 +81,7 @@ const projects = [
   {
     id: 2,
     title: 'The Vault',
-    description: '<strong>Central Business Intelligence and Service Delivery Framework.<br><br><br></strong>
+    description: `<strong>Central Business Intelligence and Service Delivery Framework.<br><br><br></strong>
 <strong>Problem Statement:</strong><br><br><br>
 <ul>
 <li>Stifel had Bill Pay application.<br>NPS scores were not too good for that Bill Payment product.<br></li>
@@ -172,7 +172,7 @@ const projects = [
 	<li>Depending on the disputes type you may perform certain actions and adduce certain evidence. <br></li>
 </ul>
 
-', },
+`, },
   
   // Add more projects as needed
 
