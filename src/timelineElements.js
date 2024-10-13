@@ -8,7 +8,7 @@ let timelineElements = [
     
     date: "2022",
     icon: "work",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ let timelineElements = [
     // buttonText: "View Backend Projects",
     date: "2021",
     icon: "work",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ let timelineElements = [
     // buttonText: "Company Website",
     date: "2017",
     icon: "work",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ let timelineElements = [
     // buttonText: "Course Certificate",
     date: "2016",
     icon: "work",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ let timelineElements = [
     // buttonText: "College Projects",
     date: "2014",
     icon: "work",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 6,
@@ -62,7 +62,7 @@ let timelineElements = [
       "Class Representative for the MBA Batch of 2014, IIT Roorkee",
     date: "2012",
     icon: "school",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 7,
@@ -72,7 +72,7 @@ let timelineElements = [
       "Successfully implemented OnDemand Bill Payment Solution to over 50 billers",
     date: "2010",
     icon: "work",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 8,
@@ -82,7 +82,7 @@ let timelineElements = [
       "Lead team of 6 consultants to develop Automation scenarios doing regression testing for Metlife application",
     date: "2007",
     icon: "work",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
   {
     id: 9,
@@ -92,7 +92,7 @@ let timelineElements = [
       "BE - IT",
     date: "2002",
     icon: "school",
-    logo: "https://private-user-images.githubusercontent.com/22560102/376052307-2837735f-2801-4acd-b047-7e7e7c397fc3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4Mzc5NTEsIm5iZiI6MTcyODgzNzY1MSwicGF0aCI6Ii8yMjU2MDEwMi8zNzYwNTIzMDctMjgzNzczNWYtMjgwMS00YWNkLWIwNDctN2U3ZTdjMzk3ZmMzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEzVDE2NDA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjZWUxODA3Y2IwNWU1NDNiMDBlMGZmMThmNWU0YmQ3YThlNWRjMzdlZGY2Y2E5YTMzODU3ZWJhODU0YWZmMjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3But5ZQLNMM3HKidw4aUFIX_GMg1rxFZCXuuP_0ilKI",
+    logo: "https://github.com/user-attachments/assets/27c03cc1-5048-44f7-b2f8-d3cc069c3ee3",
   },
 ];
 
