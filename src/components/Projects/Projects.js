@@ -7,7 +7,7 @@ import Particle from "../Particle";
 import "../../App.css";
 
 const projects = [
-  { id: 1, title: 'CheckFree RXP', description: 'Integrating Fiservs Bill Pay solution - CheckFree RXP to Stifels Online Banking Platform' },
+  { id: 1, title: 'Jebel Ali Free Trade Zone Authority - JAFZA', description: 'Mobile App is designed to provide a seamless experience in the free zone, enabling customers to manage their operations efficiently and stay ahead in the competitive business landscape.' },
   { id: 2, title: 'The Vault ', description: 'Central Business Intelligence and Service Delivery Framework' },
   // Add more projects as needed
 ];
