@@ -56,6 +56,11 @@
   text-align: left;
 }
 
+.project-card p {
+  text-decoration: underline;
+  text-decoration-color: #ffffff;
+}
+
 .project-details {
   border: 1px solid #ddd; /* Light border for the card */
   color: #ffffff;
