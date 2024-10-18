@@ -42,7 +42,7 @@ const Carousel = () => {
         </div>
       ))}
     </Slider>
-//<Home3></Home3>
+
 </div>
   );
 };
