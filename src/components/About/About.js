@@ -15,7 +15,20 @@ function About() {
       <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
-            md={5}
+            md={12}
+            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            className="about-img"
+          >
+              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              The space I operate in
+            </h1>
+            <img src={laptopImg} alt="about" className="img-fluid" />
+          </Col>
+        </Row>
+
+        <Row style={{ justifyContent: "center", padding: "10px" }}>
+          <Col
+            md={12}
             style={{
               justifyContent: "center",
               paddingTop: "30px",
@@ -27,17 +40,8 @@ function About() {
             </h1>
             <Aboutcard />
           </Col>
-          <Col
-            md={7}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
-            className="about-img"
-          >
-              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              The space I operate in
-            </h1>
-            <img src={laptopImg} alt="about" className="img-fluid" />
-          </Col>
         </Row>
+
         
         
       </Container>
