@@ -16,7 +16,7 @@ function About() {
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
             md={12}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            style={{ paddingTop: "20px", paddingBottom: "20px" }}
             className="about-img"
           >
               <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
@@ -31,8 +31,8 @@ function About() {
             md={12}
             style={{
               justifyContent: "center",
-              paddingTop: "30px",
-              paddingBottom: "30px",
+              paddingTop: "20px",
+              paddingBottom: "20px",
             }}
           >
               <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
