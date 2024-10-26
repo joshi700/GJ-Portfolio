@@ -30,6 +30,7 @@ const Carousel = () => {
     "https://github.com/user-attachments/assets/b085f738-b776-4f69-aba6-e47d07221e5e",
     "https://github.com/user-attachments/assets/5d1a241e-6b47-4d81-a8b8-47d35141883c",
     "https://github.com/user-attachments/assets/90d67745-da9f-4998-b316-c3e9fda8a881",
+    "https://github.com/user-attachments/assets/6febcc9a-9f35-411f-8a07-285f69fb49f9",
     
   ];
 
