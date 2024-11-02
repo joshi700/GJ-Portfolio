@@ -25,7 +25,7 @@ function Home2() {
               A Product Manager who loves to talk to customers
             </h1>
             <p className="home-about-body">
-            I’m a results-driven product management professional with over 15 years of experience in the <b className="purple">Payments industry</b>. 
+            I’m a results-driven product management professional with over 17 years of experience in the <b className="purple">Payments industry</b>. 
               <br />
               <br />
               Currently, I’m a Product Manager at <b className="purple">Mastercard</b>, focusing on enhancing integration experiences for Payment Gateway's API offerings. 
