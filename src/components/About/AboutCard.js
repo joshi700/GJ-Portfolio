@@ -12,7 +12,7 @@ function AboutCard() {
             <br />
             <ul>
             <li className="about-activity">
-              <ImPointRight /> Lead strategic direction and roadmap for Integration experience domain of Mastercard Payment Gateway. 
+              <ImPointRight /> <strong className="purple">Lead strategic direction and roadmap</strong> for Integration experience domain of Mastercard Payment Gateway. 
             </li>
               <br />
             <li className="about-activity">
