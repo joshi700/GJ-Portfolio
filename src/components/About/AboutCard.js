@@ -32,14 +32,6 @@ function AboutCard() {
             </li>
               <br />
             <li className="about-activity">
-              <ImPointRight /> In-depth knowledge of payments environments of International and Domestic card brands/ Issuers/ processors / Acquirers/ PayFac models. 
-            </li>
-              <br />
-            <li className="about-activity">
-              <ImPointRight /> Experienced in creating/developing and setting up boarding, commercialization of new features on existing Payment Gateway platform. 
-            </li>
-              <br />
-            <li className="about-activity">
               <ImPointRight /> Produce detailed product and functional requirements that drive product development, testing and deployment. 
             </li>
               <br />
