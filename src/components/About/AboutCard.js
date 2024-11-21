@@ -16,11 +16,11 @@ function AboutCard() {
             </li>
               <br />
             <li className="about-activity">
-              <ImPointRight /> Build, maintain, communicate, and execute against a prioritized product roadmap. 
+              <ImPointRight /> Build, maintain, communicate, and execute against a <strong className="purple">prioritized product roadmap.</strong> 
             </li>
               <br />
             <li className="about-activity">
-              <ImPointRight /> Collaborate with cross-functional teams, including engineering, design, marketing, finance, legal and operations, to deliver high-quality products on time.
+              <ImPointRight /> <strong className="purple">Collaborate with cross-functional teams, including engineering, design, marketing,</strong> finance, legal and operations, to deliver high-quality products on time.
             </li>
               <br />
             <li className="about-activity">
@@ -28,13 +28,8 @@ function AboutCard() {
             </li>
               <br />
             <li className="about-activity">
-              <ImPointRight /> Define and track key performance metrics, analyzing data to make informed product decisions.
+              <ImPointRight /> <strong className="purple">Define and track key performance metrics,</strong> analyzing data to make informed product decisions.
             </li>
-              <br />
-            <li className="about-activity">
-              <ImPointRight /> Produce detailed product and functional requirements that drive product development, testing and deployment. 
-            </li>
-              <br />
           </ul>
               </p>
         </blockquote>
