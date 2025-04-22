@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import homeLogo from "../../Assets/ChatGPT Image Apr 22, 2025, 06_55_34 PM.png";
+import homeLogo from "../../Assets/ChatGPT Image Apr 22, 2025, 07_09_04 PM.png";
 
 import Particle from "../Particle";
 import Home2 from "./Home2";
