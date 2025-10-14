@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
 import homeLogo from "../../Assets/PHOTO-2025-09-22-20-12-18.jpg";
-
+import Tilt from "react-parallax-tilt";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
