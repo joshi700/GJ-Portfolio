@@ -32,7 +32,7 @@ function Home() {
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
+            <Col md={5} className="myAvtar" style={{ paddingBottom: 20 }}>
             <Tilt>
               <img
                 src={homeLogo}
