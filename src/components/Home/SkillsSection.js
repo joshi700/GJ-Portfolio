@@ -14,9 +14,9 @@ const skills = [
   {
     category: "Team Leadership",
     expertise: [
-      "* Cross-functional & Regional Team Leadership",
+      "Cross-functional Leadership",
       "Stakeholder Management",
-      "Agile Methodologies",
+      "Regional Team Leadership",
       "Mentorship & Development",
     ],
   },
