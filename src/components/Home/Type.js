@@ -6,7 +6,7 @@ function Type() {
     <Typewriter
       options={{
         strings: [
-          "Product Manager",
+          "Regional Product Manager",
           "Global Payment Gateway"
         ],
         autoStart: true,
