@@ -2,24 +2,19 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { alignPropType } from "react-bootstrap/esm/types";
-import { FaAlignCenter } from "react-icons/fa";
-//import Home3 from "./Home3";
 
 const Carousel = () => {
   const settings = {
-    // dots: true,
-    // infinite: true,
-    // speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: true,
     autoplay: true,
     autoplaySpeed: 3000,
-    centerMode: true,
+    centerMode: false,
     fade: true,
+    infinite: true,
   };
-
+  
   const images = [
     "https://github.com/user-attachments/assets/bd54e11d-6b33-4b5f-a174-9cce912bb66b",
     "https://github.com/user-attachments/assets/881194eb-8ca5-42fb-a362-6d283664a0cb",
@@ -33,17 +28,38 @@ const Carousel = () => {
     "https://github.com/user-attachments/assets/fb666e42-3307-4c91-832e-0da0f904ea77",
   ];
 
-  return (
-    <div>
-    <Slider {...settings}>
-      {images.map((img, index) => (
-        <div key={index}>
-          <img src={img} alt={`Slide ${index}`} />
-        </div>
-      ))}
-    </Slider>
+  const containerStyle = {
+    width: '100%',
+    maxWidth: '1200px',
+    margin: '0 auto',
+    padding: '20px',
+  };
 
-</div>
+  const slideStyle = {
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    outline: 'none',
+  };
+
+  const imageStyle = {
+    width: '100%',
+    height: 'auto',
+    maxHeight: '600px',
+    objectFit: 'contain',
+    display: 'block',
+  };
+  
+  return (
+    <div style={containerStyle}>
+      <Slider {...settings}>
+        {images.map((img, index) => (
+          <div key={index} style={slideStyle}>
+            <img src={img} alt={`Slide ${index}`} style={imageStyle} />
+          </div>
+        ))}
+      </Slider>
+    </div>
   );
 };
 
