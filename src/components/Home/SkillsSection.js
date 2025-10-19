@@ -5,17 +5,16 @@ const skills = [
   {
     category: "Strategy",
     expertise: [
-      "Product Roadmaps",
-      "Product Ownership",
-      "Competitor Analysis",
-      "Customer Interviews",
-      "Feature Creation",
+      "Regional Product Strategy & Roadmapping",
+      "Market & Competitive Analysis",
+      "Go-to-Market Planning",
+      "Stakeholder & Partner Management",
     ],
   },
   {
     category: "Team Leadership",
     expertise: [
-      "Cross-functional Collaboration",
+      "* Cross-functional & Regional Team Leadership",
       "Stakeholder Management",
       "Agile Methodologies",
       "Mentorship & Development",
@@ -27,19 +26,14 @@ const skills = [
       "KPIs & Metrics Tracking",
       "User Research",
       "User Experience (UX)",
-      "Figma",
     ],
   },
   {
     category: "Technical Acumen",
     expertise: [
-      "Generative AI",
-      "JIRA",
-      "Python",
-      "Javascript",
-      "SQL / Databases",
-      "Postman" ,
-      "JSON/XML",
+      "API Integration (JSON/XML, Postman)",
+      "Python, JavaScript, SQL",
+      "Generative AI Applications in Product Innovation",
     ],
   },
 ];
