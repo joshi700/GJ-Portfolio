@@ -26,6 +26,12 @@ const Carousel = () => {
     "https://github.com/user-attachments/assets/90d67745-da9f-4998-b316-c3e9fda8a881",
     "https://github.com/user-attachments/assets/8e97465b-35a0-45ac-b4f2-172d8847797f",
     "https://github.com/user-attachments/assets/fb666e42-3307-4c91-832e-0da0f904ea77",
+    "https://github.com/user-attachments/assets/58160cf8-063c-48b3-8ba0-38908538efee",
+    "https://github.com/user-attachments/assets/c2092673-132c-4e00-bfca-0df4512bd40a",
+    "https://github.com/user-attachments/assets/830b405b-a457-42ec-9dbb-39af34ebd956",
+    "https://github.com/user-attachments/assets/f9b8cf72-2b08-4e06-abc9-11401f625eb6",
+    "https://github.com/user-attachments/assets/fdb6f452-2a56-431c-bcfe-30478b05b473",
+    "https://github.com/user-attachments/assets/a61d031b-d7d4-47dd-96f5-e208bab8f9f4",
   ];
 
   const containerStyle = {
