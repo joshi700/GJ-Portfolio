@@ -21,7 +21,6 @@ const Carousel = () => {
   };
 
   const images = [
-    
     "https://github.com/user-attachments/assets/bd54e11d-6b33-4b5f-a174-9cce912bb66b",
     "https://github.com/user-attachments/assets/881194eb-8ca5-42fb-a362-6d283664a0cb",
     "https://github.com/user-attachments/assets/1244db23-9fca-4bf8-be8f-625f2eed12fd",
@@ -30,10 +29,8 @@ const Carousel = () => {
     "https://github.com/user-attachments/assets/b085f738-b776-4f69-aba6-e47d07221e5e",
     "https://github.com/user-attachments/assets/5d1a241e-6b47-4d81-a8b8-47d35141883c",
     "https://github.com/user-attachments/assets/90d67745-da9f-4998-b316-c3e9fda8a881",
-    “https://github.com/user-attachments/assets/8e97465b-35a0-45ac-b4f2-172d8847797f”,
-    “https://github.com/user-attachments/assets/fb666e42-3307-4c91-832e-0da0f904ea77”,
-    
-    
+    "https://github.com/user-attachments/assets/8e97465b-35a0-45ac-b4f2-172d8847797f",
+    "https://github.com/user-attachments/assets/fb666e42-3307-4c91-832e-0da0f904ea77",
   ];
 
   return (
