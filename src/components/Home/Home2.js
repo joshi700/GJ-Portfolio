@@ -28,7 +28,7 @@ function Home2() {
             I’m a results-driven product management professional with over 17 years of experience in the <b className="purple">Payments industry</b>. 
               <br />
               <br />
-              Currently, I’m a Product Manager at <b className="purple">Mastercard</b>, focusing on enhancing integration experiences for Payment Gateway's API offerings. 
+              Currently, I’m a Regional Product Manager at <b className="purple">Mastercard</b>, focusing on enhancing integration experiences for Payment Gateway's API offerings. 
               <br />
               <br />
               
