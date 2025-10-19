@@ -22,7 +22,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              A Product Manager who loves to talk to customers
+              A Regional Product Manager who loves to build solutions for Payment Gateway customers
             </h1>
             <p className="home-about-body">
             I’m a results-driven product management professional with over 17 years of experience in the <b className="purple">Payments industry</b>. 
