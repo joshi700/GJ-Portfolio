@@ -6,12 +6,11 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
+import PrivacyPolicy from "./components/PrivacyPolicy";
 //import Timeline from "./Timeline";
 //import "./Timeline.css";
 //import Projects from './components/Projects/Projects';
 import ProjectDetails from './components/Projects/ProjectDetails';
-
-
 import {
   BrowserRouter as Router,
   Route,
@@ -24,15 +23,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const [load, upadateLoad] = useState(true);
-
+  
   useEffect(() => {
     const timer = setTimeout(() => {
       upadateLoad(false);
     }, 1200);
-
     return () => clearTimeout(timer);
   }, []);
-
+  
   return (
     <Router>
       <Preloader load={load} />
@@ -42,10 +40,11 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           {/* <Route path="/project" element={<Projects />} /> */}
-         {/*  <Route path="/about" element={<About />} /> */}
+          {/* <Route path="/about" element={<About />} /> */}
           <Route path="/resume" element={<Resume />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/projects/:id" element={<ProjectDetails />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         </Routes>
         {/* //<Timeline></Timeline> */}
         <Footer />
