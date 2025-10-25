@@ -13,13 +13,13 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-
 import { CgFileDocument } from "react-icons/cg";
+import { MdPrivacyTip } from "react-icons/md";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
-
+  
   function scrollHandler() {
     if (window.scrollY >= 20) {
       updateNavbar(true);
@@ -27,9 +27,9 @@ function NavBar() {
       updateNavbar(false);
     }
   }
-
+  
   window.addEventListener("scroll", scrollHandler);
-
+  
   return (
     <Navbar
       expanded={expand}
@@ -58,7 +58,6 @@ function NavBar() {
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
-
             {/* <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -68,7 +67,6 @@ function NavBar() {
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> Speciality
               </Nav.Link>
             </Nav.Item> 
-
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -81,7 +79,6 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item> */}
-
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -91,7 +88,6 @@ function NavBar() {
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item> 
-
             <Nav.Item>
               <Nav.Link
                 href="https://my-blog-wheat-iota.vercel.app"
@@ -100,8 +96,16 @@ function NavBar() {
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Projects
               </Nav.Link>
-            </Nav.Item> 
-
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/privacy-policy"
+                onClick={() => updateExpanded(false)}
+              >
+                <MdPrivacyTip style={{ marginBottom: "2px" }} /> Privacy Policy
+              </Nav.Link>
+            </Nav.Item>
             {/* <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/joshi700/"
