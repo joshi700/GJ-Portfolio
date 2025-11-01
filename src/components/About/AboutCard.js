@@ -7,37 +7,37 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-  <p style={{ textAlign: "justify" }}>
-    My Job roles include:
-    <br />
-    <ul>
-      <li className="about-activity">
-        <ImPointRight /> <strong className="purple">Drive the strategic direction and roadmap</strong> for the Mastercard Payment Gateway across AP and NAM regions.
-      </li>
-      <br />
-      <li className="about-activity">
-        <ImPointRight /> <strong className="purple">Localize global product strategies</strong> to meet regional customer and regulatory needs.
-      </li>
-      <br />
-      <li className="about-activity">
-        <ImPointRight /> <strong className="purple">Partner with cross-functional and cross-regional teams</strong>—engineering, design, marketing, operations, and compliance—to deliver impactful, market-fit solutions.
-      </li>
-      <br />
-      <li className="about-activity">
-        <ImPointRight /> <strong className="purple">Conduct market and competitive analysis</strong> to identify regional growth opportunities and optimize positioning.
-      </li>
-      <br />
-      <li className="about-activity">
-        <ImPointRight /> <strong className="purple">Define and monitor KPIs and performance metrics</strong> to measure adoption, customer satisfaction, and revenue outcomes.
-      </li>
-      <br />
-      <li className="about-activity">
-        <ImPointRight /> <strong className="purple">Advocate for customers</strong> by integrating user insights and feedback loops into continuous product improvement.
-      </li>
-    </ul>
-  </p>
-</blockquote>
-              
+          <p style={{ textAlign: "justify" }}>
+            <strong style={{ fontSize: "1.1em" }}>My responsibilities as Regional Product Manager include:</strong>
+            <br />
+            <br />
+            <ul>
+              <li className="about-activity">
+                <ImPointRight /> <strong className="purple">Strategic Vision & Roadmap Ownership</strong> — Define and execute the product strategy for Mastercard Payment Gateway across Asia-Pacific and North America, aligning regional priorities with global objectives.
+              </li>
+              <br />
+              <li className="about-activity">
+                <ImPointRight /> <strong className="purple">Regional Market Adaptation</strong> — Localize product offerings to address unique customer needs, regulatory requirements, and market dynamics across diverse geographies.
+              </li>
+              <br />
+              <li className="about-activity">
+                <ImPointRight /> <strong className="purple">Cross-Functional Leadership</strong> — Collaborate with engineering, design, sales, marketing, operations, and compliance teams to deliver solutions that drive adoption and revenue growth.
+              </li>
+              <br />
+              <li className="about-activity">
+                <ImPointRight /> <strong className="purple">Market Intelligence & Competitive Analysis</strong> — Continuously monitor market trends, competitive landscape, and emerging opportunities to inform product positioning and differentiation strategies.
+              </li>
+              <br />
+              <li className="about-activity">
+                <ImPointRight /> <strong className="purple">Performance Management & Optimization</strong> — Establish and track key performance indicators (KPIs) including adoption rates, customer satisfaction scores, and revenue metrics to measure success and identify improvement areas.
+              </li>
+              <br />
+              <li className="about-activity">
+                <ImPointRight /> <strong className="purple">Customer Advocacy & Voice of Customer</strong> — Champion customer needs by gathering feedback, conducting user research, and integrating insights into iterative product enhancements.
+              </li>
+            </ul>
+          </p>
+        </blockquote>
       </Card.Body>
     </Card>
   );
