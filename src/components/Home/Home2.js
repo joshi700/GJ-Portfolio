@@ -22,34 +22,28 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              A Regional Product Manager who loves to build solutions for Payment Gateway customers
+              Regional Product Manager driving innovation in Payment Gateway solutions
             </h1>
             <p className="home-about-body">
-            I’m a results-driven product management professional with over 17 years of experience in the <b className="purple">Payments industry</b>. 
+              I'm a results-oriented product leader with <b className="purple">17+ years</b> of deep expertise in the payments ecosystem. 
               <br />
               <br />
-              Currently, I’m a Regional Product Manager at <b className="purple">Mastercard</b>, focusing on enhancing integration experiences for Payment Gateway's API offerings. 
+              As a Regional Product Manager at <b className="purple">Mastercard</b>, I drive the evolution of our Payment Gateway platform, focusing on creating seamless API integration experiences that empower merchants and partners across <b className="purple">Asia-Pacific and North America</b>.
               <br />
               <br />
-              
-              My expertise spans Product Development, API integration, business analysis, and project leadership, with a strong emphasis on transforming user experiences.
-              <br />
-              
-              <br />I am keen on converting strategies into digital solutions that will benefit as many users as possible.
-              
+              My background spans the full product lifecycle—from <b className="purple">strategic planning</b> and <b className="purple">technical architecture</b> to business analysis and go-to-market execution.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I specialize in translating complex technical capabilities into user-friendly solutions that scale across regions and drive measurable business impact.
+              <br />
+              <br />
+              Currently, I'm passionate about exploring how &nbsp;
               <i>
-                <b className="purple">Products </b> in areas related to{" "}
+                <b className="purple">Generative AI</b> can unlock new possibilities in{" "}
                 <b className="purple">
-                  Generative Artificial Intelligence.
+                  payment innovation, fraud prevention, and developer experience enhancement.
                 </b>
               </i>
-              <br />
-              <br />
-              
-              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -58,27 +52,25 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-
       </Container>
-              <Container>
-                <About />
-              </Container>  
-            <Container>
-      <SkillsSection/>
-     </Container>
-       <Container>
-         <Timeline></Timeline>
-     </Container>
+      <Container>
+        <About />
+      </Container>  
+      <Container>
+        <SkillsSection/>
+      </Container>
+      <Container>
+        <Timeline></Timeline>
+      </Container>
       <Container>
         <h1 className="title" style={{ fontSize: "2.6em" }}>..</h1> 
-     </Container>
+      </Container>
       <Container>
-        <h1 className="title"  style={{ fontSize: "6em"}} >GOOD TIMES!!</h1>
+        <h1 className="title" style={{ fontSize: "6em" }}>GOOD TIMES!!</h1>
         <Carousel />
-        </Container>
+      </Container>
     </Container>
-
-    
   );
 }
+
 export default Home2;
