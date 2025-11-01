@@ -3,37 +3,48 @@ import "./skills.css"; // Ensure you have styles for alignment and responsivenes
 
 const skills = [
   {
-    category: "Strategy",
+    category: "Strategic Leadership & Planning",
     expertise: [
-      "Regional Product Strategy & Roadmapping",
-      "Market & Competitive Analysis",
-      "Go-to-Market Planning",
-      "Stakeholder & Partner Management",
+      "Regional Go-to-Market (GTM) Strategy",
+      "Strategic Account Planning & Management",
+      "Market & Competitive Intelligence",
+      "Product Roadmap Alignment with Regional Priorities",
     ],
   },
   {
-    category: "Team Leadership",
+    category: "Customer & Stakeholder Management",
     expertise: [
-      "Cross-functional Leadership",
-      "Stakeholder Management",
-      "Regional Team Leadership",
-      "Mentorship & Development",
+      "Escalation Management & Resolution",
+      "Cross-Regional Coordination (US,AP)",
+      "Partner & Ecosystem Management",
+      "Regular Customer Touchpoint Orchestration",
     ],
   },
   {
-    category: "Data-Driven Decision Making",
+    category: "Sales & Revenue Enablement",
     expertise: [
-      "KPIs & Metrics Tracking",
-      "User Research",
-      "User Experience (UX)",
+      "Sales Team Enablement & Training",
+      "Demo Material Development",
+      "Deal Support",
+      "Technical Consultation",
     ],
   },
   {
-    category: "Technical Acumen",
+    category: "Operational Excellence",
     expertise: [
-      "API Integration (JSON/XML, Postman)",
-      "Python, JavaScript, SQL",
-      "Generative AI Applications in Product Innovation",
+      "Issue & Action Log Management",
+      "Legal & Compliance Coordination",
+      "Regional Performance Reporting",
+      "Process Optimization & Documentation",
+    ],
+  },
+  {
+    category: "Technical & Product Acumen",
+    expertise: [
+      "Payment Gateway & Transaction Processing Expertise",
+      "API Integration & Technical Architecture (JSON/XML, REST APIs)",
+      "Technical Solution Design & Consultation",
+      "Emerging Technology Evaluation (AI/ML in Payments)",
     ],
   },
 ];
