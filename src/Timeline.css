@@ -1,0 +1,84 @@
+/* body {
+  background: #3da3d5;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  color: rgb(53, 53, 53);
+} */
+
+.title {
+  font-size: 2.4em;
+  text-align: center;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 0.2em;
+}
+
+.timeline-logo {
+  max-width: 60px;
+  margin: 0.5em auto;
+  display: block;
+}
+
+h3 {
+  padding-top: 0.15em;
+}
+
+.vertical-timeline {
+  max-width: 700px !important;
+  padding: 0 !important;
+}
+
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25),
+    0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+  padding: 1em 1.5em !important;
+}
+
+.vertical-timeline-element-title {
+  font-size: 1em !important;
+}
+
+.vertical-timeline-element-subtitle {
+  font-size: 0.85em !important;
+}
+
+.date {
+  color: rgb(255, 255, 255);
+}
+
+#description {
+  margin: 0.6em 0 0.8em 0;
+  font-size: 0.9em;
+}
+
+.button {
+  text-decoration: none;
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  color: white;
+}
+
+.workButton {
+  background-color: #06d6a0;
+}
+
+.workButton:hover {
+  background-color: #0ac593;
+}
+
+.schoolButton {
+  background-color: #f9c74f;
+}
+
+.schoolButton:hover {
+  background-color: #f3bc3c;
+}
+
+@media only screen and (max-width: 1700px) {
+  .vertical-timeline-element-date {
+    display: block !important;
+    float: none !important;
+    color: rgb(255, 255, 255);
+    margin-top: 1.5em;
+  }
+}
