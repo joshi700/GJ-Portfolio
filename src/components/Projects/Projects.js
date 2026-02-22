@@ -1,9 +1,8 @@
 // src/pages/Projects.js
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row } from "react-bootstrap";
 import ProjectCard from './ProjectCard';
-import Particle from "../Particle";
 import "../../App.css";
 
 const projects = [
